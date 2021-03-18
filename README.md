@@ -1,5 +1,5 @@
 <!--![HelloWorld](/img/N2j1.gif =250x250)-->
-<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="/img/N2j1.gif" width="100%" />
 # Hello world, I'm Israa Othman :D
 
 ## Welcome to my GitHub account here's a few information about me
