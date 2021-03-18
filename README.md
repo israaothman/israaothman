@@ -1,4 +1,4 @@
-![HelloWorld](/img/N2j1.gif "hello world")
+![HelloWorld](/img/N2j1.gif | width=100)
 
 # Hello world, I'm Israa Othman :D
 
