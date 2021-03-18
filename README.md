@@ -1,5 +1,6 @@
-<!--![HelloWorld](/img/N2j1.gif =250x250)-->
-<img src="/img/N2j1.gif" width="100%" hight="50%"/>
+![HelloWorld](/img/N2j1.gif)
+<!-- <img src="/img/N2j1.gif" width="100%" height="50%"/>-->
+
 # Hello world, I'm Israa Othman :D
 
 ## Welcome to my GitHub account here's a few information about me
